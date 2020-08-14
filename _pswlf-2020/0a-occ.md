@@ -377,4 +377,4 @@ As a framework, OCC will be used across the Service to select, assess, train and
 - [Insert LEARN module title](https://www.learn.gov.sg/dlp/student/course/232)
 <div style="text-align: right"><a href="#top">Back to top</a></div>
 
-<br> Click [here](_pswlf-2020/faqs) if you have any questions.
+<br> Click [here](_pswlf-2020/faqs) if you have any questions!
